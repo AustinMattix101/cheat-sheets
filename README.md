@@ -11,7 +11,7 @@ This Repository **Cheat-Sheets** is my personal knowledge-base. Here you'll find
 
 > :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
-I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my YouTube Channel: [Christian Lempa](https://www.youtube.com/@austinmattix11).
+I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my YouTube Channel: [Austin Mattix](https://www.youtube.com/@austinmattix11).
 
 ## Contribution
 
