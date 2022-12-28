@@ -26,7 +26,7 @@ hcxpcapngtool -o hash.hc22000 -E essidlist dumpfile.pcapng
 hashcat -m 22000 hash.hc22000 wordlist.txt
 ```
 
-## Windows
+## on Windows OS
 
 ```bash
 hashcat.exe -m 22000 hash.hc22000 -a 3 ?d?d?d?d?d?d?d?d
